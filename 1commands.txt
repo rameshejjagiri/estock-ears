@@ -1,0 +1,4 @@
+java -jar api-gateway-1.jar
+java -jar  eureka-discovery-server-1.jar
+java -jar  estock-company-service-0.0.1-SNAPSHOT.jar
+java -jar  e-stock-stock-service-0.0.1-SNAPSHOT.jar
